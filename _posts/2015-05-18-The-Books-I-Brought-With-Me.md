@@ -67,6 +67,8 @@ On hand for its running commentary on many common open-source licenses, when the
 
 ## Lajoux and Nesvold's The Art of M&A Structuring
 
+A shorter, more focused, and more technical guide from the authors of the M&A Handbook.
+
 ## Mellinkoff's The Language of the Law
 
 Perhaps my most-beloved law book. The word and phrase index of this book is an antidote to so much that's disappointing in contract drafting.
@@ -74,8 +76,6 @@ Perhaps my most-beloved law book. The word and phrase index of this book is an a
 ## Guth's Contract Negotiation Handbook: Software as a Service
 
 A guide to SaaS contracts to buyer-biased you may need shots. Includes in-depth commentary on each provision of the author's form. Invaluable when representing a SaaS buyer, so long as you pick and choose how many and which of the extreme positions it advances you take. Be warned: Indiscriminate use of the book's form as it's written form would cause more than a few not-so-enterprise-grade Silicon Valley sellers to walk. The form is available in Word format from the author's website.
-
-## Tollen's The Tech Contract Handbook
 
 ## Butterick's Typography for Lawyers
 
