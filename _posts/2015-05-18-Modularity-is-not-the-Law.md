@@ -35,6 +35,18 @@ All us lawyers know the bad news. Consider the following contract-law classics:
 
 Every lawyer learns these principles in some formulation or other. (If I'm missing any, let me know.) Courts often recite and apply them, though when and how isn't always easy to predict.
 
+In California, a few have been reduced to statutory law:
+
+> The whole of a contract is to be taken together, so as to give effect to every part, if reasonably practicable, each clause helping to interpret the other. — California Civil Code §1641.
+
+> Several contracts relating to the same matters, between the same parties, and made as parts of substantially one transaction, are to be taken together. — California Civil Code §1642.
+
+> Particular clauses of a contract are subordinate to its general intent. — California Civil Code §1650.
+
+> Repugnancy in a contract must be reconciled, if possible, by such an interpretation as will give some effect to the repugnant clauses, subordinate to the general intent and purpose of the whole contract. — California Civil Code §1652.
+
+> Words in a contract which are wholly inconsistent with its nature, or with the main intention of the parties, are to be rejected. California Civil Code §1653.
+
 Some of these maxims are exactly what we'd tell courts to do if we wanted to _prevent_ lawyers from drafting modular contracts. The rest define pattern relationships between provisions (or between certain factual circumstances and provisions) that, once recognized by a court, lead to consequences that change the meaning of language.
 
 Lawyers are already wary of the most obvious examples, like governing law provisions. Anecdotally, we seem less prepared to anticipate issues with integration clauses, no-waiver clauses, third party beneficiary disclaimers, and other boilerplate with cross-cutting effects that don't correspond to easy-to-find cross-references or defined term usage. When it comes to terms that aren't Defined Terms or shared concepts like ownership, identity, or vague lawyer-math like "pro rata" we're rolling dice.
