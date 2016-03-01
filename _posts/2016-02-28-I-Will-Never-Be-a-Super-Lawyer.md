@@ -14,7 +14,7 @@ I’ll never be a “Super Lawyer”, a “Rising Star”, or any such thing. Th
 
 First, the megaton legal publishing conglomerates, Thomson Reuters and RELX (formerly Reed Elsevier), run nearly all the lawyerly “Who’s Who” programs. Those companies have conspired, by means fair and foul, to keep American court decisions, regulations, and statutory law behind paywalls for decades. I won’t have anything to do with them.
 
-Not every lawyer is so involved in the nuts and bolts of legal publishing, legal data, and distribution, or so primed to understand their implications. But I am. Armed with that knowledge, open access becomes a clear moral imperative for the profession in my lifetime. I can’t abide affiliation with its principle opponents.
+Not every lawyer is so involved in the nuts and bolts of legal publishing, legal data, and distribution, or so primed to understand their implications. But I am. Armed with that knowledge, open access becomes a clear moral imperative for the profession in my lifetime. I can’t abide affiliation with its principal opponents.
 
 Second, while reputation is mine to earn, it’s my clients’ to keep. Genuine statements of appreciation from them are my best moments in practice. I depend on my clients for my livelihood, a good name, and future prospects. That is more than enough. I won’t dilute the immediacy of those relationships with sycophancy or membership in any club, and certainly not with the follow-on “professional marketing” services hocked by the officiating vendors. I’m no “lawyers’ lawyer”, and certainly no “vendors’ lawyer”. It’s “clients’ lawyer” or bust.
 
